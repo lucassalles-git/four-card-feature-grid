@@ -23,15 +23,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Screenshot1.png)
-![](images/Screenshot2.png)
-![](images/Screenshot3.png)
+![](images/screenshotone.png)
+![](images/screenshottwo.png)
+![](images/screenshotthree.png)
+![](images/screenshotfour.png)
 
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/lucassalles-git/four-card-feature-section?tab=readme-ov-file#useful-resources)
-- Live Site URL: [Live site](https://lucassalles-git.github.io/four-card-feature-section/)
+- Solution URL: [Solution](https://github.com/lucassalles-git/four-card-feature-grid)
+- Live Site URL: [Live site](https://lucassalles-git.github.io/four-card-feature-grid/)
 
 ## My process
 
